@@ -1,0 +1,36 @@
+div{
+  position: absolute;
+}
+
+.head{
+  font-size: 50px;
+  top: 0px;
+  left: 600px;
+  font-family: 'Nunito', sans-serif;
+  font-weight: black 900; 
+}
+
+.backtopage {
+  width: 200px;
+  height: 20px;
+  top: 80px;
+  left: 100px; 
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  background-color: #EBEAE7;
+}
+
+.description{
+  position: absolute;
+  top: 80px;
+  left: 400px;
+  width: 700px;
+  font-family: 'Lato', sans-serif;
+  font-size: 26px;
+  line-height: 36px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+

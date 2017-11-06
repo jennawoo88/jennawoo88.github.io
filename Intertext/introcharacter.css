@@ -1,0 +1,135 @@
+div{
+  position: absolute;
+}
+
+.head{
+  font-size: 50px;
+  top: 0px;
+  left: 360px;
+  font-family: 'Nunito', sans-serif;
+  font-weight: black 900; 
+}
+
+.box1 {
+  width: 200px;
+  height: 20px;
+  top: 80px;
+  left: 100px; 
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  background-color: #EBEAE7;
+}
+
+.box2{
+  width: 200px;
+  height: 20px;
+  top: 105px;
+  left: 100px;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  background-color: #EBEAE7;
+}
+
+.box3{
+  width: 200px;
+  height: 20px;
+  top: 130px;
+  left: 100px;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  background-color: #EBEAE7;
+}
+
+.box4{
+  width: 200px;
+  height: 20px;
+  top: 155px;
+  left: 100px;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  background-color: #EBEAE7;
+}
+
+.box5{
+  width: 200px;
+  height: 20px;
+  top: 180px;
+  left: 100px;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  background-color: #EBEAE7;
+}
+
+.description{
+  position: absolute;
+  top: 80px;
+  left: 400px;
+  width: 700px;
+  font-family: 'Lato', sans-serif;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.description2{
+  position: absolute;
+  top: 145px;
+  left: 400px;
+  width: 700px;
+  font-family: 'Berkshire Swash', cursive;
+  font-weight: regular;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.description3{
+  position: absolute;
+  top: 210px;
+  left: 400px;
+  width: 700px;
+  font-family: 'Lato', sans-serif;
+  font-weight: regular;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.description4{
+ position: absolute;
+  top: 545px;
+  left: 400px;
+  width: 700px;
+  font-family: 'Berkshire Swash', cursive;
+  font-weight: regular;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
+
+.description5{
+  position: absolute;
+  top: 610px;
+  left: 400px;
+  width: 700px;
+  font-family: 'Lato', sans-serif;
+  font-weight: regular;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: left;
+  height: 100%;
+  overflow: scroll;
+}
