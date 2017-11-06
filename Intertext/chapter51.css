@@ -21,6 +21,17 @@ div{
   background-color: #EBEAE7;
 }
 
+.solarstill {
+  width: 200px;
+  height: 20px;
+  top: 100px;
+  left: 100px; 
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  background-color: #EBEAE7;
+}
+
 .description{
   position: absolute;
   top: 80px;
