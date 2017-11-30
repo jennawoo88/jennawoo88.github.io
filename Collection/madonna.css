@@ -1,0 +1,578 @@
+div{
+	position: absolute;
+}
+
+.background{
+	background-color: #DF2E22;
+	width: 5760px;
+	height: 2550px;
+	left: 0px;
+}
+
+.home{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	left: 500px;
+	top: 100px;
+	color: white;
+}
+
+.home:hover{
+	color: black;
+	cursor: pointer;
+}
+
+.artist{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	left: 1100px;
+	top: 100px;
+	color: white;
+}
+
+.artist:hover{
+	color: black;
+	cursor: pointer;
+}
+
+.line{
+	top: 200px;
+	 bottom-border: 2px solid white;
+}
+
+.madonnaword{
+	width: 2200px;
+	height: 2200px;
+	left: 1450px;
+	top:  850px;
+	 
+}
+
+.madonnalogo{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.quote{
+	top: 1600px;
+	left: 2000px;
+	font-size: 72px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+.quote2{
+	top: 1680px;
+	left: 2020px;
+	font-size: 72px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+.quote3{
+	top: 1760px;
+	left: 2020px;
+	font-size: 72px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+.madonna{
+	left: 2700px;
+	top: 320px;
+}
+
+.madonnaperson{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.subheader{
+	font-size: 200px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	left: 500px;
+	top: 3000px;
+}
+
+.category{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	left: 500px;
+	top: 3500px;
+}
+
+.record{
+	top: 3490px;
+	left: 960px;
+}
+
+.symbol{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.vinyltitle{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 575px;
+	top: 3850px;
+}
+
+.madonnaalbum{
+	width: 4000px;
+	height: 4000px;
+	left: 500px;
+	top: 4100px;
+}
+
+.date{
+	font-size: 80px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 500px;
+	top: 5050px;
+}
+
+.songlist{
+	font-size: 70px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 550px;
+	top: 5100px;
+}
+
+.vinyltitle2{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 1750px;
+	top: 3850px;
+}
+
+.virginalbum{
+	width: 868px;
+	height: 864px;
+	left: 1780px;
+	top: 4100px;
+}
+
+.virginimage{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.date2{
+	font-size: 80px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 1780px;
+	top: 5050px;
+}
+
+.songlist2{
+	font-size: 70px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 1830px;
+	top: 5100px;
+}
+
+.vinyltitle3{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 3250px;
+	top: 3850px;
+}
+
+.bluealbum{
+	width: 868px;
+	height: 864px;
+	left: 3200px;
+	top: 4100px;
+}
+
+.date3{
+	font-size: 80px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 3200px;
+	top: 5050px;
+}
+
+.songlist3{
+	font-size: 70px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 3250px;
+	top: 5100px;
+}
+
+.vinyltitle4{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 4650px;
+	top: 3850px;
+}
+
+.prayeralbum{
+	width: 868px;
+	height: 864px;
+	left: 4700px;
+	top: 4100px;
+}
+
+.date4{
+	font-size: 80px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 4700px;
+	top: 5050px;
+}
+
+.songlist4{
+	font-size: 70px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 4750px;
+	top: 5100px;
+}
+
+.category2{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	left: 500px;
+	top: 6600px;
+}
+
+.cassette{
+	top: 6600px;
+	left: 1310px;
+}
+
+.symbol2{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.casstitle{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 585px;
+	top: 6950px;
+}
+
+.eroticaalbum{
+	left: 500px;
+	top: 7200px;
+}
+
+.date5{
+	font-size: 80px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 500px;
+	top: 8150px;
+}
+
+.songlist5{
+	font-size: 70px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 550px;
+	top: 8200px;
+}
+
+.casstitle2{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 1750px;
+	top: 6950px;
+}
+
+.storiesalbum{
+	left: 1910px;
+	top: 7200px;
+}
+
+.date6{
+	font-size: 80px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 1910px;
+	top: 8150px;
+}
+
+.songlist6{
+	font-size: 70px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 1960px;
+	top: 8200px;
+}
+
+.casstitle3{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 3250px;
+	top: 6950px;
+}
+
+.lightalbum{
+	left: 3280px;
+	top: 7200px;
+}
+
+.date7{
+	font-size: 80px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 3280px;
+	top: 8150px;
+}
+
+.songlist7{
+	font-size: 70px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 3330px;
+	top: 8200px;
+}
+
+.casstitle4{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 4900px;
+	top: 6950px;
+}
+
+.musicalbum{
+	left: 4680px;
+	top: 7200px;
+}
+
+.date8{
+	font-size: 80px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 4680px;
+	top: 8150px;
+}
+
+.songlist8{
+	font-size: 70px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 4680px;
+	top: 8200px;
+}
+
+.category3{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	left: 500px;
+	top: 9700px;
+}
+
+.cd{
+	top: 9700px;
+	left: 750px;
+}
+
+.symbol3{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.cdtitle{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 430px;
+	top: 10050px;
+}
+
+.lifealbum{
+	left: 500px;
+	top: 10300px;
+}
+
+.date9{
+	font-size: 80px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 500px;
+	top: 11250px
+}
+
+.songlist9{
+	font-size: 70px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 550px;
+	top: 11300px;
+}
+
+.cdtitle2{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 1750px;
+	top: 10050px;
+}
+
+.flooralbum{
+	left: 2400px;
+	top: 10300px;
+}
+
+.date10{
+	font-size: 70px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 2400px;
+	top: 11250px;
+}
+
+.songlist10{
+	font-size: 70px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 2450px;
+	top: 11300px;
+}
+
+.category4{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	left: 500px;
+	top: 12800px;
+}
+
+.mp3{
+	top: 12770px;
+	left: 870px;
+}
+
+.symbol4{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.mp3title{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 490px;
+	top: 13150px;
+}
+
+.candyalbum{
+	left: 500px;
+	top: 13400px;
+}
+
+.date11{
+	font-size: 80px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 500px;
+	top: 14350px
+}
+
+.songlist11{
+	font-size: 70px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 550px;
+	top: 14400px
+}
+
+.category5{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	left: 500px;
+	top: 15900px;
+}
+
+.smartdevices{
+	top: 15850px;
+	left: 1730px;
+}
+
+.symbol5{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.smarttitle{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 490px;
+	top: 16250px;
+}
+
+.mdnaalbum{
+	left: 500px;
+	top: 16500px;
+}
+
+.date12{
+	font-size: 80px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 500px;
+	top: 17450px
+}
+
+.songlist12{
+	font-size: 70px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 550px;
+	top: 17500px
+}
+
+.smarttitle2{
+	font-size: 152px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 2370px;
+	top: 16250px;
+}
+
+.heartalbum{
+	left: 2400px;
+	top: 16500px;
+}
+
+.date13{
+	font-size: 80px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 2400px;
+	top: 17450px
+}
+
+.songlist13{
+	font-size: 70px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: medium;
+	left: 2450px;
+	top: 17500px
+}
