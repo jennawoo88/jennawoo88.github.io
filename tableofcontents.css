@@ -1,0 +1,110 @@
+div{
+	position: absolute;
+	font-family: 'Barlow Condensed', sans-serif;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.title{
+	font-family: 'Barlow Condensed', sans-serif;
+	font-weight: bold;
+	font-size: 72px;
+	left: 360px;
+	top: 250px;
+	color: white;
+}
+
+.box{
+	background-color: #418AD4;
+	width: 1430px;
+	height: 550px;
+	left: 0px;
+}
+
+.platform{
+	background-color: #88DDF3;
+	width: 230px;
+	height: 130px;
+	left: 200px;
+	top: 360px;
+	color: white;
+	text-align: center;
+	font-size: 52px;
+}
+
+.platform:hover{
+	background-color: white;
+	color: black;
+	cursor: pointer;
+}
+
+.hyperlink{
+	background-color: #88DDF3;
+	width: 230px;
+	height: 130px;
+	left: 440px;
+	top: 360px;
+	color: white;
+	text-align: center;
+	font-size: 52px;
+}
+
+.hyperlink:hover{
+	background-color: white;
+	color: black;
+	cursor: pointer;
+}
+
+.typeface{
+	background-color: #88DDF3;
+	width: 230px;
+	height: 130px;
+	left: 680px;
+	top: 360px;
+	color: white;
+	text-align: center;
+	font-size: 52px;
+}
+
+.typface:hover{
+	background-color: white;
+	color: black;
+	cursor: pointer;
+}
+
+.intertext{
+	background-color: #88DDF3;
+	width: 230px;
+	height: 130px;
+	left: 920px;
+	top: 360px;
+	color: white;
+	text-align: center;
+	font-size: 52px;
+}
+
+.intertext:hover{
+	background-color: white;
+	color: black;
+	cursor: pointer;
+}
+
+.collection{
+	background-color: #88DDF3;
+	width: 230px;
+	height: 130px;
+	left: 1160px;
+	top: 360px;
+	color: white;
+	text-align: center;
+	font-size: 52px;
+}
+
+.collection:hover{
+	background-color: white;
+	color: black;
+	cursor: pointer;
+}
