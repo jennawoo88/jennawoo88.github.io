@@ -1,0 +1,46 @@
+div{
+	position: absolute;
+}
+
+body{
+	background-image: url("intertextbackground.jpg");
+	background-size: 1446px, 868px, auto; 
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.title{
+	top: 0px;
+	left: 600px;
+}
+
+.tiger{
+	opacity: 0.5;
+	top: 130px;
+	left: 50px;
+}
+
+.quote{
+	font-family: 'Playfair Display', serif;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 46px;
+	top: 245px;
+	left: 400px;
+	width: 880px;
+	height: 330px;
+
+}
+
+.pagecurl{
+	top: 674px;
+	left: 1340px;
+	position: fixed;
+	opacity: 0.5;
+}
+
+.pagecurl:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100);
+	cursor: pointer;
+}

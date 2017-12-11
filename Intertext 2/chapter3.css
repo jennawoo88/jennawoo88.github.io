@@ -1,0 +1,70 @@
+div{
+	position: absolute;
+}
+
+body{
+	background-image: url("intertextbackground.jpg");
+	background-size: 1446px, 868px, auto; 
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.title{
+	max-width: 100%;
+	max-height: 100%;
+	top: 120px;
+	left: 462px;
+}
+
+.text{
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 30px;
+	top: 205px;
+	left: 305px;
+	width: 880px;
+	height: 330px;
+	overflow: scroll;
+
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	cursor: pointer;
+	color: white;
+}
+
+mark{
+	font-family: 'Open Sans', sans-serif;
+	font-style: italic;
+	font-weight: bold;
+	background-color: #A6C8D1;
+}
+
+.box{
+	background-color: grey;
+	width: 940px;
+	height: 390px;
+	left: 280px;
+	top: 180px;
+	opacity: 0.2;
+}
+
+.pagecurl{
+	top: 675px;
+	left: 0px;
+	position: fixed;
+	opacity: 0.5;
+}
+
+.pagecurl:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100);
+	cursor: pointer;
+}
+
