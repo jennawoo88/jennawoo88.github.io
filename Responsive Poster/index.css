@@ -1,0 +1,112 @@
+div{
+	position: absolute;
+}
+
+body{
+	background-image: url("431 copy.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.moca{
+	font-family: Futura;
+	font-size: 54px;
+	opacity: 0.5;
+	top: 50px;
+	left: 29px;
+}
+
+.moca:hover{
+	opacity: 1;
+	cursor: pointer;
+}
+
+.moon{
+	top: -45px;
+	left: 924px;
+	opacity: 0.15;
+}
+
+.flower{
+	opacity: 0.1;
+	top: -2px;
+	left: -16px;
+	z-index: -1;
+}
+
+.flower2{
+	opacity: 0.1;
+	top: 820px;
+	left: 1035px;
+	z-index: -1;
+}
+
+.happynewyear{
+	top: 212px;
+	left: 35px;
+}
+
+.lunartitle{
+	font-family: Didot;
+	font-weight: bold;
+	font-size: 60px;
+	top: 570px;
+	left: 459px;
+}
+
+.date{
+	font-family: Didot;
+	font-size: 45px;
+	top: 749px;
+	left: 439px;
+}
+
+.time{
+	font-family: Didot;
+	font-size: 45px;
+	top: 809px;
+	left: 549px;
+}
+
+.ticketprice{
+	font-family: Didot;
+	text-align: center;
+	font-size: 45px;
+	top: 900px;
+	left: 520px;
+}
+
+.tickets{
+	font-family: Didot;
+	font-size: 45px;
+	top: 1020px;
+	left: 632px;
+	color: black;
+}
+
+.tickets:hover{
+	text-decoration: none;
+	color: red;
+	cursor: pointer;
+}
+
+.tickets:visited{
+	text-decoration: none;
+}
+
+.location{
+	font-family: Didot;
+	text-align: center;
+	font-size: 45px;
+	top: 1120px;
+	left: 430px;
+}
+
+.info{
+	font-family: Didot;
+	font-size: 45px;
+	top: 1370px;
+	left: 520px;
+}
