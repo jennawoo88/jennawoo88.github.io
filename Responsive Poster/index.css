@@ -1,0 +1,225 @@
+div{
+	position: absolute;
+}
+
+body{
+	background-image: url("431 copy.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.moca{
+	opacity: 0.5;
+	top: 50px;
+	left: 29px;
+}
+
+.moca:hover{
+	opacity: 1;
+	cursor: pointer;
+}
+
+.moon{
+	top: -45px;
+	left: 924px;
+	opacity: 0.15;
+}
+
+.moon2{
+	opacity: 0;
+}
+
+.flower{
+	opacity: 0.1;
+	top: -2px;
+	left: -16px;
+	z-index: -1;
+}
+
+.flowerphone{
+	opacity: 0;
+}
+
+.flower2{
+	opacity: 0.1;
+	top: 820px;
+	left: 1035px;
+	z-index: -1;
+}
+
+.flowerphone2{
+	opacity: 0;
+}
+
+.happynewyear{
+	top: 212px;
+	left: 35px;
+}
+
+.lunarvertical{
+	opacity: 0;
+}
+
+.lunartitle{
+	font-family: Didot;
+	font-weight: bold;
+	font-size: 60px;
+	top: 585px;
+	left: 459px;
+}
+
+.date{
+	font-family: Montserrat;
+	font-size: 45px;
+	top: 769px;
+	left: 439px;
+}
+
+.time{
+	font-family: Montserrat;
+	font-size: 45px;
+	top: 829px;
+	left: 549px;
+}
+
+.ticketprice{
+	font-family: Montserrat;
+	text-align: center;
+	font-size: 45px;
+	top: 915px;
+	left: 625px;
+}
+
+.tickets{
+	font-family: Montserrat;
+	font-weight: bold;
+	font-size: 45px;
+	top: 1020px;
+	left: 622px;
+	color: black;
+}
+
+.tickets:hover{
+	color: red;
+	cursor: pointer;
+}
+
+.tickets:visited{
+	text-decoration: none;
+}
+
+.location{
+	font-family: Montserrat;
+	text-align: center;
+	font-size: 45px;
+	top: 1120px;
+	left: 430px;
+}
+
+.info{
+	font-family: Montserrat;
+	font-size: 45px;
+	top: 1370px;
+	left: 650px;
+}
+
+.info:hover{
+	cursor: pointer;
+	color: red;
+}
+
+@media(max-width: 550px){
+	.moca{
+		top: 20px;
+		left: 8px;
+	}
+
+	.happynewyear{
+		opacity: 0;
+	}
+
+	.lunarvertical{
+		opacity: 1;
+		top: 53px;
+		left: 330px;
+	}
+
+	.lunartitle{
+		font-size: 20px;
+		top: 198px;
+		left: 40px;
+	}
+
+	.date{
+		font-size: 18px;
+		top: 268px;
+		left: 40px;
+	}
+
+	.time{
+		font-size: 18px;
+		top: 292px;
+		left: 40px;
+	}
+
+	.ticketprice{
+		font-size: 18px;
+		top: 325px;
+		left: 40px;
+		text-align: left;
+	}
+
+	.tickets{
+		font-size: 18px;
+		top: 369px;
+		left: 40px;
+	}
+
+	.location{
+		font-size: 18px;
+		top: 410px;
+		left: 40px;
+		text-align: left;
+	}
+
+	.info{
+		font-size: 18px;
+		top: 520px;
+		left: 40px;
+	}
+
+	.moon{
+		opacity: 0;
+	}
+
+	.moon2{
+		opacity: 0.15;
+		top: 0;
+		left: 360px;
+	}
+
+	.flower{
+		opacity: 0;
+	}
+
+	.flowerphone{
+		opacity: 0.1;
+		top: 0px;
+		left: -20px;
+		z-index: -1;
+	}
+
+	.flower2{
+		opacity: 0;
+	}
+
+	.flowerphone2{
+		opacity: 0.1;
+		z-index: -1;
+		top: 361px;
+		left: 329px;
+	}
+
+}
