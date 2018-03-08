@@ -84,10 +84,3 @@ h1{
 	margin-top: 100px;
 	margin-bottom: -20px;
 }
-
-@media(min-width: 364px){
-	body{
-		width: 314px; /*Makes sure that web screen goes over that number when you expand the window it will stay that size you set it*/
-		margin-left: auto;
-		margin-right: auto;
-	}
